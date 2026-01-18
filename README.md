@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 * B. Sc. Computer Science - California State University - Fullerton
 
 ### Work Experience
-* Delivery Station Sortation Associate - Amazon (Sept. 2022 - Present)
+* **Delivery Station Sortation Associate - Amazon (Sept. 2022 - Present)**
 * Seasonal Assembly Line Worker - Alcon (Jul. 2021 - Aug. 2021)
 
