@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 * Seasonal Assembly Line Worker - Alcon (Jul. 2021 - Aug. 2021)
 
 ### Experience 
-
+* Muse - Music Recommendation System Spotify Based Application 
+  - Colloborative team with group of three members (including myself)
+  - Utilized Spotify API to incorporate music features to support our recommendation system
+  - Number-based slider system that allows the user to rate recommended song title and uses the data collected to generate
+  more song recommendations to the user.
