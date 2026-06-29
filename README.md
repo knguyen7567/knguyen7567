@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Project-Based Experience 
 * Muse - Music Recommendation System Spotify Based Application
-* -                                       June 2023 - December 2024
+*                            June 2023 - December 2024
   - Colloborative team: group of three members (including myself)
   - Utilized Spotify API to incorporate music features to support our recommendation system
   - Number-based slider system that allows the user to rate recommended song title and uses the data collected to generate
