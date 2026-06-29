@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Education
 * B. Sc. Computer Science - California State University - Fullerton
 * **Undergraduate Certificate in Cybersecurity - Colorado State University, Global
-  - Expected Graduation Date: Oct. 2026 **
+  - Expected Graduation Date: Oct. 2026**
 
 ### Professional Experience
 * **Delivery Station Sortation Associate - Amazon (Sept. 2022 - Present)**
