@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - **Expected Graduation Date: Oct. 2026**
 
 ### Professional Experience 📦 ###
-* **Delivery Station Sortation Associate - Amazon (Sept. 2022 - Present)**
+* **Delivery Station Sortation Associate - Amazon | Sept. 2022 - Present**
   - Process 1,000+ packages per shift with high accuracy across Stow, Pick-to-Buffer, Dock Water Spider, Pusher, Line Loading, and Bag Reset functions.
   - Cross-trained across six operational roles, enabling rapid deployment to high-priority workflows based on daily volume demands.
   - Maintained strict adherence to safety protocols and standard operating procedures in a high-throughput, time-sensitive environment.
