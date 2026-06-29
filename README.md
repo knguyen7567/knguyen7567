@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 
 ### Professional Experience 📦 ###
 * **Delivery Station Sortation Associate - Amazon (Sept. 2022 - Present)**
-* Seasonal Assembly Line Worker - Alcon (Jul. 2021 - Aug. 2021)
-
+  - Process 1,000+ packages per shift with high accuracy across Stow, Pick-to-Buffer, Dock Water Spider, Pusher, Line Loading, and Bag Reset functions.
+  - Cross-trained across six operational roles, enabling rapid deployment to high-priority workflows based on daily volume demands.
+  - Maintained strict adherence to safety protocols and standard operating procedures in a high-throughput, time-sensitive environment.
+  - Selected to support multiple station functions during peak-volume periods, demonstrating reliability and operational flexibility.
+ 
 ### Project-Based Experience 🧑🏻‍💻 ###
 * Muse - Music Recommendation System Spotify Based Application | June 2023 - December 2024
   - Colloborative team: group of three members (including myself)
