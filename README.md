@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Education
+### Education 🎓
 * B. Sc. Computer Science - California State University - Fullerton
 * **Undergraduate Certificate in Cybersecurity - Colorado State University, Global**
   - **Expected Graduation Date: Oct. 2026**
 
-### Professional Experience
+### Professional Experience 📦
 * **Delivery Station Sortation Associate - Amazon (Sept. 2022 - Present)**
 * Seasonal Assembly Line Worker - Alcon (Jul. 2021 - Aug. 2021)
 
-### Project-Based Experience 
+### Project-Based Experience 🧑🏻‍💻
 * Muse - Music Recommendation System Spotify Based Application | June 2023 - December 2024
   - Colloborative team: group of three members (including myself)
   - Utilized Spotify API to incorporate music features to support our recommendation system
